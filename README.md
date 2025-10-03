@@ -4,7 +4,7 @@
 
   ---
 
-## 🌟 About Me  
+##  About Me  
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**  
 - 💻 Exploring **Web Development, AI/ML, and Open Source**  
 - 🧑‍💻 Skilled in **C, C++, Python, HTML, Bootstrap, JavaScript, SQL**  
