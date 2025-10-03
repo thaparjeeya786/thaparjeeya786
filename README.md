@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Jeeya Thapar!  
+                  # Hi there, I'm Jeeya Thapar!  
 
-🚀 **Aspiring Developer | Tech Enthusiast | B.Tech CSE Student @ GNDEC, Ludhiana**  
+                 **Aspiring Developer | Tech Enthusiast | B.Tech CSE Student @ GNDEC, Ludhiana**  
 
----
+                  ---
 
 ## 🌟 About Me  
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**  
